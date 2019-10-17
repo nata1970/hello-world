@@ -1,5 +1,6 @@
-println ("hello world!")
-print (" hi")
+<<<<<<< HEAD
+println ("hello world!");
+print (" hi!");
 print ("good morning")
 (
 )
