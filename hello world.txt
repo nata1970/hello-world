@@ -1,2 +1,2 @@
-println ("hello world!")
-print (" hi")
+println ("hello world!");
+print (" hi!");
